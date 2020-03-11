@@ -1,22 +1,19 @@
 <template>
-    <div class="card-container">
-    <h1 style="font-size: 36px;
-    margin-left: 26%;
-    ">Layanan Perpustakaan Tetamba</h1><br>
-    <p style="font-size: 16px">Selamat datang di landing page Perpustakaan Tetamba</p><br>
+    <div>
+        <h1 style="text-align: center">Layanan Perpustakaan Tetamba</h1><br>
         <el-row>
-          <el-col :span="8" v-for="(o, index) in 2" :key="o" :offset="index > 0 ? 2 : 0">
+        <el-col :span="8" v-for="(o, index) in 2" :key="o" :offset="index > 0 ? 2 : 0">
             <el-card :body-style="{ padding: '0px' }">
-              <img src="https://shadow.elemecdn.com/app/element/hamburger.9cf7b091-55e9-11e9-a976-7f4d0b07eef6.png" class="image">
-              <div style="padding: 14px;">
+            <img src="https://shadow.elemecdn.com/app/element/hamburger.9cf7b091-55e9-11e9-a976-7f4d0b07eef6.png" class="image">
+            <div style="padding: 14px;">
                 <span>Yummy hamburger</span>
                 <div class="bottom clearfix">
-                  <time class="time">{{ currentDate }}</time>
-                  <el-button type="text" class="button">Operating</el-button>
+                <time class="time">{{ currentDate }}</time>
+                <el-button type="text" class="button">Operating</el-button>
                 </div>
-              </div>
+            </div>
             </el-card>
-          </el-col>
+        </el-col>
         </el-row>
     </div>
 </template>
@@ -32,39 +29,33 @@ export default {
 </script>
 
 <style>
-    .card-container{
-        margin-left: 150px;
-        margin-bottom: 20px;
-    };
-
-    .time {
+  .time {
     font-size: 13px;
     color: #999;
-  };
+  }
   
   .bottom {
     margin-top: 13px;
     line-height: 12px;
-  };
+  }
 
   .button {
     padding: 0;
     float: right;
-    color: #0D78E7;
-  };
+  }
 
   .image {
     width: 100%;
     display: block;
-  };
+  }
 
   .clearfix:before,
   .clearfix:after {
       display: table;
       content: "";
-  };
+  }
   
   .clearfix:after {
       clear: both
-  };
+  }
 </style>
