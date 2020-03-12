@@ -2,9 +2,7 @@
   <div>
     <NavSide></NavSide>
     <Carousel></Carousel>
-    <Card></Card>
-      
-      
+    <Card></Card>  
   </div>
 </template>
 
