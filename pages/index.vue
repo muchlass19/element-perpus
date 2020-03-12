@@ -1,10 +1,9 @@
 <template>
   <div>
-    <NavSide></NavSide>
-    <Carousel></Carousel>
-    <Card></Card>
-      
-      
+  <NavSide />
+  <Carousel />
+  <ListKat /><br/>
+  <Card />      
   </div>
 </template>
 
@@ -12,14 +11,14 @@
 import NavSide from '~/components/content/navside.vue';
 import Carousel from '~/components/content/carousel.vue';
 import Card from '~/components/content/card.vue';
-import Logo from '~/components/Logo.vue';
+import ListKat from '~/components/content/list-kat.vue'
 
 export default {
   components: {
-    Logo,
     NavSide,
     Carousel,
     Card,
+    ListKat,
   }
 }
 </script>
