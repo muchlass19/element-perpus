@@ -1,0 +1,149 @@
+{
+    "user": [
+        {
+            "email": "tetamba@gmail.com",
+            "password": "indomie",
+            "role": "administrator"
+        }
+    ],
+    "buku": [
+        {
+            "id": 1,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 2,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 3,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 4,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 5,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 6,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 7,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 8,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 9,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 10,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 11,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 12,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 13,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 14,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 15,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 16,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 17,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 18,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 19,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 20,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 21,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 1,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        },
+        {
+            "id": 1,
+            "nama": "Cinta",
+            "kategori": "Novel",
+            "penulis": "fikri"
+        }
+    ]
+}
